@@ -16,7 +16,7 @@ playButtonForKids.href = "./simon.html";
 const playButtonStandart = document.createElement("a");
 playButtonStandart.innerHTML = "Play Standart";
 playButtonStandart.id = "playButtonStandart";
-playButtonStandart.href = "./index.html";
+playButtonStandart.href = "./standart.html";
 
 main.appendChild(playButtonStandart);
 main.appendChild(playButtonForKids);
