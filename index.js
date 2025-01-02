@@ -23,3 +23,5 @@ main.appendChild(playButtonForKids);
 main.appendChild(welcomeText);
 main.appendChild(homePageImg);
 document.getElementById("landingPage").appendChild(main);
+
+//helloo
